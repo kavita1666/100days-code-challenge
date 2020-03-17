@@ -4,7 +4,6 @@ using namespace std;
 
 typedef long long ll;
 #define test ll t;cin>>t;while(t--);
-#define f(i,n) for(ll i=0;i<n;i++);
 
 int main()
 {
