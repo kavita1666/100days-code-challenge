@@ -3,11 +3,12 @@
 using namespace std;
 
 typedef long long ll;
-#define test ll t;cin>>t;while(t--);
 
 int main()
 {
-    test
+    ll t;
+    cin>>t;
+    while(t--)
     {
         ll n,k;
         cin>>n>>k;
